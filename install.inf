@@ -1,0 +1,26 @@
+[info]
+title=NumToWords Propis
+desc=Converts numbers to words: Russian language
+type=cudatext-plugin
+subdir=cuda_propis
+
+[item1]
+section=commands
+caption=Propis\Number to words, new tab
+method=num_new_tab
+[item2]
+section=commands
+caption=Propis\Number to words, replace
+method=num_replace
+[item3]
+section=commands
+caption=Propis\-
+method=-
+[item4]
+section=commands
+caption=Propis\Rubles to words, new tab
+method=rubles_new_tab
+[item5]
+section=commands
+caption=Propis\Rubles to words, replace
+method=rubles_replace
