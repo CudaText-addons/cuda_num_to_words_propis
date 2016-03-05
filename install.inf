@@ -3,6 +3,7 @@ title=NumToWords Propis
 desc=Converts numbers to words: Russian language
 type=cudatext-plugin
 subdir=cuda_propis
+homepage=https://github.com/CudaText-addons/cuda_num_to_words_propis
 
 [item1]
 section=commands
