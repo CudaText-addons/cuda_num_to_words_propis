@@ -11,5 +11,5 @@ gives commands:
 - roubles to words, put to new tab
 - roubles to words, replace
 
-author: Alexey (CudaText)
+author: Alexey Torgashin (CudaText)
 license: MIT
